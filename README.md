@@ -24,14 +24,10 @@ This webpage is designed to provide insights into the advantages of switching to
 
 ## Screenshots
 
-![Card 1](screenshots/card1.png)
+![Card 1,2,3]
 *Card 1 - Image credit: [HDQWalls](https://www.hdqwalls.com)*
 
-![Card 2](screenshots/card2.png)
-*Card 2 - Image credit: [HDQWalls](https://www.hdqwalls.com)*
 
-![Card 3](screenshots/card3.png)
-*Card 3 - Image credit: [HDQWalls](https://www.hdqwalls.com)*
 
 ## How to Use
 
