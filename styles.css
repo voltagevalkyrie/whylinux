@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color:  black ;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
+.card {
+    width: 80%;
+    max-width: 400px;
+    margin: 20px auto;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 43.5px;
+    background-color: white;
+    text-align: center;
+
+
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+
+}
+
+
+
+
+.card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+@media screen and (min-width: 768px) {
+    .card {
+        width: 60%;
+    }
+}
